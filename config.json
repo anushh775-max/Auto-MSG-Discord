@@ -1,18 +1,18 @@
 {
   "Config": [
     {
-      "token": "your_token_here",
-      "channel_id": "your_channel_id_here",
+      "token": "MTUxMzc4MTgzMjQ2MDUzMzg0Mg.GyYfDa.0qtA9XlbdPV6XHg3MTUd9Bvs7-XiyKRjkwEOPw",
+      "channel_id": "1517949536109072387",
       "messages": [
         {
-          "content": "Hello, this is a test message!",
+          "content": "!explore",
           "min_interval": 5,
           "max_interval": 10
         },
         {
-          "content": "This is another message.",
-          "min_interval": 10,
-          "max_interval": 15
+          "content": "!explore",
+          "min_interval": 30,
+          "max_interval": 30
         }
       ]
     }
